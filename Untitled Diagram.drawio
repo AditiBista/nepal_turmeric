@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T08:04:36.302Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="zF1XkAizZ9BGsalvOrYA" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T08:31:30.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="_qpqOglg7EE7hmF1Odcp" version="22.1.5" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="954" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -205,8 +205,8 @@
             <mxPoint x="1452" y="257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3mBVgCStBCej63vjiRxV-12" value="&lt;b&gt;Intervention &lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-storage and processing center&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-irrigation&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-connection, negotiation and promotion&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-extension services&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-formation of cooperative and land pooling&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-quality rhizome and mini tiller supply&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-Reinvestment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="200" width="230" height="122" as="geometry" />
+        <mxCell id="3mBVgCStBCej63vjiRxV-12" value="&lt;b&gt;Intervention promoting uplift of livelihood of women&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-Awareness&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-storage and processing center&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-irrigation&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-connection, negotiation and promotion&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-extension services&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-formation of cooperative and land pooling&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-quality rhizome and mini tiller supply&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;-Reinvestment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="190" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="I3U8tqW1mATDwWrFV4v6-3" value="market risk" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="1321" y="140" width="80" height="30" as="geometry" />
@@ -319,19 +319,19 @@
         <mxCell id="-MEQbCyRV03Khf3-NIZY-14" value="disease pest" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="1420" y="145" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PUgdbvQagpJxsUOLhecl-1" value="dumping" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="PUgdbvQagpJxsUOLhecl-1" value="dumping" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="1283" y="97" width="68" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PUgdbvQagpJxsUOLhecl-2" value="insufficient supply" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="PUgdbvQagpJxsUOLhecl-2" value="insufficient supply" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="1365" y="102" width="120" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="PUgdbvQagpJxsUOLhecl-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PUgdbvQagpJxsUOLhecl-1">
+        <mxCell id="PUgdbvQagpJxsUOLhecl-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PUgdbvQagpJxsUOLhecl-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1230" y="260" as="sourcePoint" />
             <mxPoint x="1350" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PUgdbvQagpJxsUOLhecl-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PUgdbvQagpJxsUOLhecl-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1420" y="120" as="sourcePoint" />
             <mxPoint x="1380" y="140" as="targetPoint" />
